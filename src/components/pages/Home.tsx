@@ -8,7 +8,7 @@ import ContactDetails from "./../reuseables/contactdetails";
 export default function Home() {
 	return (
 		<>
-			<Jumbotron full={true} name={"CyberHacking Firm"} />
+			<Jumbotron full={true} name={"CyberSpy Firm"} />
 			<Grid container style={{ margin: "5rem 0" }}>
 				<Grid item xs />
 

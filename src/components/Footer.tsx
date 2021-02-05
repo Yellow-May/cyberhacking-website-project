@@ -10,8 +10,8 @@ export default function Footer() {
 				borderTop: "thin solid",
 			}}>
 			<Typography variant='subtitle1'>
-				Copyright &copy; {new Date().getFullYear()} CyberHacking Firm |
-				Powered by CyberHacking Firm
+				Copyright &copy; {new Date().getFullYear()} CyberSpy Firm |
+				Powered by CyberSpy Firm
 			</Typography>
 		</Paper>
 	);

@@ -9,7 +9,7 @@ import Typography from "@material-ui/core/Typography";
 import MenuItem from "@material-ui/core/MenuItem";
 import Menu from "@material-ui/core/Menu";
 import MoreIcon from "@material-ui/icons/MoreVert";
-import logo from "./../data/images/cyberhacking.png";
+import logo from "./../data/images/cyberSpy.png";
 
 export default function Header() {
 	const classes = useStyles();
@@ -78,7 +78,7 @@ export default function Header() {
 							variant='h5'
 							className={classes.headerHeading}
 							noWrap>
-							CYBERHACKING FIRM
+							CYBERSPY FIRM
 						</Typography>
 					</Link>
 
