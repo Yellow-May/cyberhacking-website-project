@@ -9,6 +9,12 @@ export const useStyles = makeStyles((theme: Theme) =>
 		headerLogo: {
 			marginRight: theme.spacing(2),
 		},
+		headerHeading: {
+			display: "none",
+			[theme.breakpoints.up("sm")]: {
+				display: "block",
+			},
+		},
 		headerButtonSpacing: {
 			padding: theme.spacing(1),
 			marginLeft: theme.spacing(1),

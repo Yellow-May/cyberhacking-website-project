@@ -60,12 +60,13 @@ export default function Header() {
 		<>
 			<AppBar>
 				<Toolbar>
-					<IconButton
-						edge='start'
+					<Button
+						component={Link}
+						to='/'
 						className={classes.headerLogo}
 						aria-label='company logo'>
 						<img src={logo} alt='logo' style={{ width: "3rem" }} />
-					</IconButton>
+					</Button>
 					<Link
 						to='/'
 						style={{
@@ -73,7 +74,10 @@ export default function Header() {
 							textDecoration: "none",
 							fontFamily: "inherit",
 						}}>
-						<Typography variant='h5' noWrap>
+						<Typography
+							variant='h5'
+							className={classes.headerHeading}
+							noWrap>
 							CYBERHACKING FIRM
 						</Typography>
 					</Link>
