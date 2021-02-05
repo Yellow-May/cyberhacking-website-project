@@ -1,9 +1,9 @@
 {
-	"short_name": "Website Name",
-	"name": "Website Name",
+	"short_name": "cH Firm",
+	"name": "CyberHacking Firm",
 	"icons": [
 		{
-			"src": "favicon.ico",
+			"src": "cyberhacking.ico",
 			"sizes": "64x64 32x32 24x24 16x16",
 			"type": "image/x-icon"
 		}

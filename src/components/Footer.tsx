@@ -1,5 +1,18 @@
-const Footer = () => {
-	return <></>;
-};
+import Paper from "@material-ui/core/Paper";
+import Typography from "@material-ui/core/Typography";
 
-export default Footer;
+export default function Footer() {
+	return (
+		<Paper
+			style={{
+				textAlign: "center",
+				padding: "0.5rem",
+				borderTop: "thin solid",
+			}}>
+			<Typography variant='subtitle1'>
+				Copyright &copy; {new Date().getFullYear()} CyberHacking Firm |
+				Powered by CyberHacking Firm
+			</Typography>
+		</Paper>
+	);
+}
