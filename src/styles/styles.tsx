@@ -66,5 +66,10 @@ export const useStyles = makeStyles((theme: Theme) =>
 				height: "15rem",
 			},
 		},
+		formRoot: {
+			"& .MuiTextField-root": {
+				marginBottom: theme.spacing(2),
+			},
+		},
 	})
 );
