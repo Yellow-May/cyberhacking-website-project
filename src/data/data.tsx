@@ -90,7 +90,7 @@ export const faqData = [
 	{
 		head: "HOW LONG DOES IT TAKE TO HACK AND RECOVER AN ACCOUNT ?",
 		body:
-			"Depending on your request, it can take 6-7 days after you place your request or 3-5 days depending on your job. Same timeframe for Yahoo,Gmail,Hotmail,Corporate email hacking(Legal Recovering),facebook,twitter,linkedin.",
+			"Depending on your request, it can take 6-7 days after you place your request or 3-5 days depending on your job. Same timeframe for Yahoo, Gmail, Hotmail, Corporate email hacking(Legal Recovering), facebook, twitter, linkedin.",
 	},
 	{
 		head: "DO YOU REQUIRE PAYMENT FIRST ? AND WHAT IS YOUR RETURN POLICY?",
