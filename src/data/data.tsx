@@ -88,14 +88,14 @@ export const faqData = [
 			"Yes 100% refund on all platforms ONLY if the service isn’t completed.",
 	},
 	{
-		head: "HOW LONG TO IT TAKE TO HACK AND RECOVER AN ACCOUNT ?",
+		head: "HOW LONG DOES IT TAKE TO HACK AND RECOVER AN ACCOUNT ?",
 		body:
-			"After you place an order we need to 3-5 days to complete the job. Same timeframe for Yahoo,Gmail,Hotmail,Corporate email hacking(Legal Recovering),facebook,twitter,linkedin.",
+			"Depending on your request, it can take 6-7 days after you place your request or 3-5 days depending on your job. Same timeframe for Yahoo,Gmail,Hotmail,Corporate email hacking(Legal Recovering),facebook,twitter,linkedin.",
 	},
 	{
 		head: "DO YOU REQUIRE PAYMENT FIRST ? AND WHAT IS YOUR RETURN POLICY?",
 		body:
-			"Not always (For our regular clients and also coupon holders). Wehave a starting cost for tools purchase depending on your service. Advance payment is also a bridge to build the trust too. Your money is 100% safe here.",
+			"Not always (For our regular clients and also coupon holders). We have a starting cost for tools purchase depending on your service. Advance payment is also a bridge to build the trust too. Your money is 100% safe here.",
 	},
 ];
 
@@ -106,5 +106,5 @@ export const contactDetailsData = [
 		icon: <LocationCityOutlined />,
 	},
 	{ primary: "+1 (239) 235-4443", secondary: "whatsapp", icon: <WhatsApp /> },
-	{ primary: "CyberSpyFirm@gmail.com", secondary: "email", icon: <Email /> },
+	{ primary: "Cyberspyfirm@gmail.com", secondary: "email", icon: <Email /> },
 ];
